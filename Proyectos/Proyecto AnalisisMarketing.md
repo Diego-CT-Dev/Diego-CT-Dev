@@ -1,0 +1,14 @@
+# 📊 Marketing Analytics & ROAS Dashboard
+
+## 📌 Resumen del Proyecto
+Desarrollo de una solución end-to-end de inteligencia de negocios para evaluar el rendimiento multicanal de campañas publicitarias (Google Ads, Meta Ads y TikTok Ads). 
+
+=========================
+
+## 🚀 Acceso al Repositorio Oficial
+Para consultar la arquitectura del modelo de datos, dirígete al repositorio principal:
+
+👉 **[Acceder al Repositorio Completo en GitHub ➔](https://github.com/Diego-CT-Dev/Analisis-de-Marketing-PwBI)**
+
+---
+*Desarrollado por [Diego CT](https://github.com/Diego-CT-Dev) | Data & Business Analytics*
