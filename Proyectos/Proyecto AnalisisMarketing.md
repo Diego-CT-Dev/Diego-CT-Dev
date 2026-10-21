@@ -8,7 +8,7 @@ Desarrollo de una solución end-to-end de inteligencia de negocios para evaluar 
 ## 🚀 Acceso al Repositorio Oficial
 Para consultar la arquitectura del modelo de datos, dirígete al repositorio principal:
 
-👉 **[Acceder al Repositorio Completo en GitHub ➔](https://github.com/Diego-CT-Dev/Analisis-de-Marketing-PwBI)**
+👉 **[Acceder al Repositorio Completo en GitHub ➔] (https://github.com/Diego-CT-Dev/Analisis-de-Marketing-PwBI)**
 
 ---
 *Desarrollado por [Diego CT](https://github.com/Diego-CT-Dev) | Data & Business Analytics*
